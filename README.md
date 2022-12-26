@@ -54,24 +54,31 @@ Hi, I’m Ola, join on a quick ✨story of my life✨.<br><br>I started coding d
 </p>
   
 
-### :phone: Contact me :
+### 💻 Accounts :
 
 <div style="margin-top:10px" align="center">
  <a  href="https://www.linkedin.com/in/💻-aleksandra-ola-zyto-072b66224/" target="_blank">
-      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
+      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
     </a>
     <a href="https://codepen.io/aleksandra-zyto" target="_blank">
 <img src="https://img.shields.io/badge/Codepen-000000.svg?style=for-the-badge&logo=codepen&logoColor=white"    </a>
 </a>
     <a href="https://www.hackerrank.com/ola_zyto606" target="_blank">
-      <img src="https://img.shields.io/badge/Hackerrank-00EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=black" alt="example"/>
+      <img src="https://img.shields.io/badge/Hackerrank-00EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=black" alt="hackerank"/>
+    </a>
+   <a href="https://www.codewars.com/users/aleksandra-zyto" target="_blank">
+      <img src="https://img.shields.io/badge/Codewars-B1361E.svg?style=for-the-badge&logo=Codewars&logoColor=white" alt="codewars"/>
     </a>
 </div>
 
 ### 🔥 My stats :
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandra-zyto&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<div style="display: flex; flex-direction: row; align-items: center; justify-content:center;">
+  <img class="img" src="https://github.r2v.ch/codewars?user=aleksandra-zyto&hide_clan=true&stroke=%23FF3377&theme=nightowl" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandra-zyto&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+ 
+</div>
 
-![Codewars](https://github.r2v.ch/codewars?user=aleksandra-zyto&hide_clan=true&stroke=%23FF3377&theme=radical)
+
 
 
 
