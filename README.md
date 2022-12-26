@@ -9,13 +9,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/💻-aleksandra-ola-zyto-072b66224/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
 Hi, I’m Ola, join on a quick ✨story of my life✨.<br><br>I started coding during the first COVID lockdown. At that time I was just having fun and wasn’t thinking that I would take it anywhere further than just a cool thing to do on the side.<br><br>I continued my plan to go study Biochemistry at Imperial College London. Halfway through my degree I decided that lab work is not for me and I want to do something that would allow me to study mechanisms of things, which was what mainly attracted me to Biochem in the first place, but also allowed me to have a creative outlet and solve problems.<br><br>Over the summer I decided to do some programming courses and I was sold. I started coding every day and exploring my options. Solving problems though code gave me a feeling like no other and I decided to do it for a living. <br><br>And… here we are!<br><br>🔋**What I am about?** Problem solving, lifelong learning and creativity.<br><br>📈 **What I am learning?** Software engineering and web development.<br><br>🏁 **What I am hoping to achieve?** I would love to join a team that would challenge me and help me grow in the world of technology.
 <br><br>
 
@@ -28,4 +21,19 @@ Hi, I’m Ola, join on a quick ✨story of my life✨.<br><br>I started coding d
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
 
+</div>
+<br><br>
+
+### :phone: Contact me :
+
+<div style="margin-top:10px" align="center">
+ <a  href="https://www.linkedin.com/in/💻-aleksandra-ola-zyto-072b66224/" target="_blank">
+      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
+    </a>
+    <a href="https://codepen.io/aleksandra-zyto" target="_blank">
+<img src="https://img.shields.io/badge/Codepen-000000.svg?style=for-the-badge&logo=codepen&logoColor=white"    </a>
+</a>
+    <a href="https://www.hackerrank.com/ola_zyto606" target="_blank">
+      <img src="https://img.shields.io/badge/Hackerrank-00EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=black" alt="example"/>
+    </a>
 </div>
