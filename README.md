@@ -1,9 +1,8 @@
 
 
 <div align="center">
-  <img src="https://imgur.com/qofmtmz" width="600" height="300"/>
+  <img src="https://i.imgur.com/46wpVmY.png" width="600" height="300"/>
 </div>
-<br><br>
 
 <h1 align="center">
   hey there
