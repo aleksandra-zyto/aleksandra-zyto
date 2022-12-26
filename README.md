@@ -9,8 +9,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-Hi, I’m Ola, join on a quick ✨story of my life✨.<br><br>I started coding during the first COVID lockdown. At that time I was just having fun and wasn’t thinking that I would take it anywhere further than just a cool thing to do on the side.<br><br>I continued my plan to go study Biochemistry at Imperial College London. Halfway through my degree I decided that lab work is not for me and I want to do something that would allow me to study mechanisms of things, which was what mainly attracted me to Biochem in the first place, but also allowed me to have a creative outlet and solve problems.<br><br>Over the summer I decided to do some programming courses and I was sold. I started coding every day and exploring my options. Solving problems though code gave me a feeling like no other and I decided to do it for a living. <br><br>And… here we are!<br><br>🔋**What I am about?** Problem solving, lifelong learning and creativity.<br><br>📈 **What I am learning?** Software engineering and web development.<br><br>🏁 **What I am hoping to achieve?** I would love to join a team that would challenge me and help me grow in the world of technology.
-<br><br>
+Hi, I’m Ola (yes, yes the full name is Aleksandra and I can’t really tell you why…), join me on a quick ✨story of my life✨, I will try not to bore you to death.<br><br>I started coding during the first COVID lockdown, I’ve always wanted to try it and well… there weren’t many entertainment options left.. At that time I was just having fun and wasn’t thinking about taking it anywhere beyond a hobby.<br><br>I continued my plan to study Biochemistry at Imperial College London but halfway through my degree I decided that lab work is not for me (bummer 😅) and I was on a search for a new plan for my life (what a way to start your twenties 😬). I wanted to do something that would allow me to study mechanisms of things, which was what mainly attracted me to Biochem in the first place, but would also allow me to have a creative outlet and solve real life problems.<br><br>Over the summer I decided to do some programming courses and I was sold. I started coding every day and building projects. Solving problems with code gave me a feeling of freedom and fulfilment like nothing else, I’m sure we can all agree that the feeling of victory when your code runs and passes the tests is one of the best out there. On top of that the endless growth opportunities made me realise that I would really enjoy doing this for a living!<br><br>And… here we are! On a search to make this plan a reality!
+
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -74,7 +74,7 @@ Hi, I’m Ola, join on a quick ✨story of my life✨.<br><br>I started coding d
 ### 🔥 My stats :
 <div style="display: flex; flex-direction: row; align-items: center; justify-content:center;">
   <img class="img" src="https://github.r2v.ch/codewars?user=aleksandra-zyto&hide_clan=true&stroke=%23FF3377&theme=nightowl" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandra-zyto&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandra-zyto&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
  
 </div>
 
