@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="https://i.imgur.com/46wpVmY.png" width="600" height="300"/>
+  <img src="https://i.imgur.com/mjh4BkU.png" width="600" height="300"/>
 </div>
 
 <h1 align="center">
@@ -67,3 +67,11 @@ Hi, I’m Ola, join on a quick ✨story of my life✨.<br><br>I started coding d
       <img src="https://img.shields.io/badge/Hackerrank-00EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=black" alt="example"/>
     </a>
 </div>
+
+### 🔥 My stats :
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandra-zyto&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+![Codewars](https://github.r2v.ch/codewars?user=aleksandra-zyto&hide_clan=true&stroke=%23FF3377&theme=radical)
+
+
+
