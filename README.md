@@ -1,4 +1,14 @@
 # 💫 About Me:
+<br><br>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/💻-aleksandra-ola-zyto-072b66224/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+<br><br>
+<br><br>
+
 Hi, I’m Ola, join on a quick ✨story of my life✨.<br><br>I started coding during the first COVID lockdown. At that time I was just having fun and wasn’t thinking that I would take it anywhere further than just a cool thing to do on the side.<br><br>I continued my plan to go study Biochemistry at Imperial College London. Halfway through my degree I decided that lab work is not for me and I want to do something that would allow me to study mechanisms of things, which was what mainly attracted me to Biochem in the first place, but also allowed me to have a creative outlet and solve problems.<br><br>Over the summer I decided to do some programming courses and I was sold. I started coding every day and exploring my options. Solving problems though code gave me a feeling like no other and I decided to do it for a living. <br><br>And… here we are!<br><br>🔋**What I am about?** Problem solving, lifelong learning and creativity.<br><br>📈 **What I am learning?** Software engineering and web development.<br><br>🏁 **What I am hoping to achieve?** I would love to join a team that would challenge me and help me grow in the world of technology.
 <br><br>
 # 💻 Tech Stack:
@@ -7,8 +17,3 @@ Hi, I’m Ola, join on a quick ✨story of my life✨.<br><br>I started coding d
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandra-zyto&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <br><br>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/💻-aleksandra-ola-zyto-072b66224/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
