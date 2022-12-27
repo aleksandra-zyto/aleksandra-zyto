@@ -66,9 +66,7 @@ Hi, I’m Ola (yes, yes the full name is Aleksandra and I can’t really tell yo
     <a href="https://www.hackerrank.com/ola_zyto606" target="_blank">
       <img src="https://img.shields.io/badge/Hackerrank-00EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=black" alt="hackerank"/>
     </a>
-   <a href="https://www.codewars.com/users/aleksandra-zyto" target="_blank">
-      <img src="https://img.shields.io/badge/Codewars-B1361E.svg?style=for-the-badge&logo=Codewars&logoColor=white" alt="codewars"/>
-    </a>
+  
 </div>
 
 ### 🔥 My stats :
